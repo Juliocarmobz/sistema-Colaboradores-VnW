@@ -3,7 +3,7 @@
 
 Este projeto Java oferece uma estrutura flexível para gerenciar informações de colaboradores em uma empresa de tecnologia. Ele proporciona uma abordagem organizada para a inclusão de novos membros da equipe, além de permitir a inserção eficiente de dados pessoais, informações salariais e a comparação das tecnologias associadas a diferentes cargos.
 
-
+![DiagramaClassesTarefa](https://github.com/Juliocarmobz/sistema-Colaboradores-VnW/assets/138674611/4e226fa4-217f-4b65-ad8c-40269047e6a3)
 
 ## Funcionalidades
 
